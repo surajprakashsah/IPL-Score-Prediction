@@ -37,5 +37,3 @@ The dataset can be downloaded from [Kaggle here](https://www.kaggle.com/yuvrajda
 - *Linear Regression*
 - *Random Forest Regression*
 - *Lasso Regression*
-- *Support Vector Machine Regression*
-- *Neural Network Regression

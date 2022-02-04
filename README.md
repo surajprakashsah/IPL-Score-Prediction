@@ -33,7 +33,7 @@ The dataset can be downloaded from [Kaggle here](https://www.kaggle.com/yuvrajda
 • total: Total runs scored by batting team at the end of first innings.
 
 ## Algorithms Used
-- *Decision Tree Regressor*
+- *Decision Tree *
 - *Linear Regression*
-- *Random Forest Regression*
+- *Random Forest *
 - *Lasso Regression*
